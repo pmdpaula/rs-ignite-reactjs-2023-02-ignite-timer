@@ -48,8 +48,6 @@ Este plugin pede para que coloque a ordenação que queremos no arquivo `.pretti
 
 ## Instalações
 
-### Pacote da API
-
 - [Styled Components](https://styled-components.com/docs/basics#installation)
 
 ```bash
@@ -63,4 +61,11 @@ yarn add -D @types/styled-components
 
 ```bash
 yarn add react-router-dom
+```
+
+
+- [Ícones - Phosphor Icons](https://phosphoricons.com/)
+
+```bash
+yarn add phosphor-react
 ```
