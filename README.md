@@ -16,7 +16,7 @@ O ESLint é instado junto da criação do projeto
 - [Prettier](https://prettier.io/docs/en/install.html)
 
 ```bash
-yarn add -D eslint prettier eslint-config-prettier
+yarn add -D eslint prettier eslint-config-prettier eslint-plugin-react-hooks
 ```
 
 
@@ -68,4 +68,25 @@ yarn add react-router-dom
 
 ```bash
 yarn add phosphor-react
+```
+
+
+- [Fomulários - React Hook Form](https://react-hook-form.com/get-started)
+
+```bash
+yarn add react-hook-form
+```
+
+
+- [Validação de formulário - zod](https://zod.dev/?id=installation)
+
+```bash	
+yarn add zod @hookform/resolvers
+```
+
+
+- [Manipulação de datas - date-fns](https://date-fns.org/docs/Getting-Started)
+
+```bash
+yarn add date-fns
 ```
