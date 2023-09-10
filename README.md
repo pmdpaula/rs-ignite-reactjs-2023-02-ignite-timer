@@ -90,3 +90,11 @@ yarn add zod @hookform/resolvers
 ```bash
 yarn add date-fns
 ```
+
+
+- [ Estados imutáveios - Immer ](https://immerjs.github.io/immer/)
+
+```bash
+yarn add immer
+```
+
